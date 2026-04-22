@@ -1,1 +1,3 @@
 # odin-recipes
+The goal of this project was to create a recipe website containing three different recipes. I needed to link the recipes from the home page and provide a link back to the home page from each individual recipe.
+During this exercise I learned how to create web pages, link them together, and add various different content to the web page. I used different headers, both types of lists, paragraphs, and anchor tags. 
